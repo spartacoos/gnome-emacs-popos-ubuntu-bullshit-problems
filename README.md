@@ -1,2 +1,5 @@
-# gnome-emacs-popos-ubuntu-bullshit-problems
-Repo where I can keep a list of weird hacks ("fixes") to stupid obscure problems in the GNOME environment, doom emacs (or vanilla emacs), popOS (or the shell or launcher), and Ubuntu. 
+# Bullshit problems with {gnome|emacs|popos|ubuntu} and the weird hacks to get around them:
+
+Each of these throws me some weird, obscure and unintuitive error at the combined rate of ~1 per week. Often, the same issue reappears after updating either one of these. So, rather than keep having to go down the search rabbit hole on GH. I want to keep track of the recurring problems here so that I may find the "fixes" more quickly in the future. 
+
+# [Pop!_OS](https://github.com/pop-os) 
